@@ -316,9 +316,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -332,7 +332,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -363,9 +377,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -379,7 +393,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -509,9 +537,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -525,7 +553,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -556,9 +598,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -572,7 +614,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                           "next": null,
@@ -873,9 +929,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -889,7 +945,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -920,9 +990,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -936,7 +1006,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -1278,9 +1362,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -1294,7 +1378,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -1325,9 +1423,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -1341,7 +1439,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                           "next": null,
@@ -1471,9 +1583,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -1487,7 +1599,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                           "next": null,
@@ -1518,9 +1644,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -1534,7 +1660,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                         "next": null,
@@ -1835,9 +1975,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -1851,7 +1991,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -1882,9 +2036,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -1898,7 +2052,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                           "next": null,
@@ -2983,9 +3151,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -2999,7 +3167,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                 "next": null,
@@ -3030,9 +3212,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -3046,7 +3228,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -3176,9 +3372,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -3192,7 +3388,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -3223,9 +3433,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -3239,7 +3449,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -3540,9 +3764,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -3556,7 +3780,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                 "next": null,
@@ -3587,9 +3825,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -3603,7 +3841,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -3945,9 +4197,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -3961,7 +4213,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -3992,9 +4258,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -4008,7 +4274,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -4138,9 +4418,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -4154,7 +4434,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -4185,9 +4479,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -4201,7 +4495,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                           "next": null,
@@ -4502,9 +4810,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -4518,7 +4826,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -4549,9 +4871,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -4565,7 +4887,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -5449,9 +5785,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -5465,7 +5801,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                   "next": null,
@@ -5496,9 +5846,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -5512,7 +5862,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                 "next": null,
@@ -5642,9 +6006,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -5658,7 +6022,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                 "next": null,
@@ -5689,9 +6067,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -5705,7 +6083,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -6006,9 +6398,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -6022,7 +6414,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                   "next": null,
@@ -6053,9 +6459,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -6069,7 +6475,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                 "next": null,
@@ -6411,9 +6831,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -6427,7 +6847,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                 "next": null,
@@ -6458,9 +6892,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -6474,7 +6908,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -6604,9 +7052,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -6620,7 +7068,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
@@ -6651,9 +7113,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -6667,7 +7129,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                             "next": null,
@@ -6968,9 +7444,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -6984,7 +7460,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                                 "next": null,
@@ -7015,9 +7505,9 @@ initialize {
             display: inline-flex;
             align-items: baseline;
             line-height: inherit;
-            color: inherit;
+            color: #0054fe;
             text-decoration: none;
-            padding: calc(0 * 0.8) calc(0 * 1.7);
+            padding: 0;
             border-radius: 0;
             width: fit-content;
             transition: color 200ms ease 0ms;
@@ -7031,7 +7521,21 @@ initialize {
 
           .link:hover {
             background-color: unset;
-            color: inherit;
+            color: #0433dc;
+          }
+
+          .link.disabled {
+            color: #9b9eac;
+            pointer-events: none;
+            cursor: default;
+          }
+
+          .link :global(.left) {
+            margin-left: 0;
+          }
+
+          .link :global(.right) {
+            margin-right: 0;
           }
         ",
                               "next": null,
