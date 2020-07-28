@@ -55,7 +55,7 @@ const Link = React.forwardRef<HTMLAnchorElement, React.PropsWithChildren<LinkPro
     const theme = useTheme()
     const linkColor = plain ? 'inherit' : theme.palette.cTheme5
     const hoverColor = theme.palette.cTheme6
-    const disabledColor = theme.palette.cGray5
+    const disabledColor = theme.palette.cNeutral5
     const padding = block ? '2px 4px' : '0'
     const decoration = underline ? 'underline' : 'none'
     if (pure) {
